@@ -49,3 +49,8 @@ definir um método para gerar um arquivo CSV. O método deve ser chamado gerarCS
 ```bash
 @workspace por favor gere um teste de unidade para o método verificarParOuImpar na pasta de test do projeto seguindo o mesmo pacote4
 ```
+## Exercicio 03
+
+```bash
+@workspace crie um novo arquivo main no pacote br.com.kasolution.exercicio3 e definir um método para criar validação para email. O método deve ser chamado validarEmail e deve receber um parâmetro do tipo String com o email a ser validado. O método deve retornar um boolean indicando se o email é válido ou não. O método main deve chamar o método validarEmail e passar o email. Ao começar a digitar a função ‘validarEmail’, o Copilot pode sugerir o uso de expressões regulares para validação. 
+```
