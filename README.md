@@ -45,3 +45,7 @@ definir um método para gerar um arquivo CSV. O método deve ser chamado gerarCS
 ```bash
 @workspace por favor insira a dependencia do junit jupiter
 ```
+
+```bash
+@workspace por favor gere um teste de unidade para o método verificarParOuImpar na pasta de test do projeto seguindo o mesmo pacote4
+```
