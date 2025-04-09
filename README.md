@@ -22,3 +22,7 @@
 ```bash
 definir um método para gerar um arquivo CSV. O método deve ser chamado gerarCSV e deve receber um parâmetro do tipo String com o nome do arquivo. O método deve gerar um arquivo com um conteúdo baseado em dados sobre Nome, Idade, Endereco. O método main deve chamar o método gerarCSV e passar o nome do arquivo "dados.csv" como parâmetro. 
 ```
+
+```bash
+@workspace por favor gere um método que receba uma URL de uma API REST, e faça uma chamada HTTP e em seguida imprima o retorno em formato de texto
+```
