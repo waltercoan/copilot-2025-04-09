@@ -42,3 +42,6 @@ definir um método para gerar um arquivo CSV. O método deve ser chamado gerarCS
 @workspace por favor, gere um novo método no #file:Main.java que receba um número inteiro e retorne o texto se ele é par ou impar
 ```
 
+```bash
+@workspace por favor insira a dependencia do junit jupiter
+```

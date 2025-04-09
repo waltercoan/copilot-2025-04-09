@@ -64,6 +64,15 @@ public class Main {
         }
     }
 
+    public static String verificarParOuImpar(int numero) {
+        // Verifica se o número é divisível por 2 (par).
+        if (numero % 2 == 0) {
+            return "O número " + numero + " é par.";
+        } else {
+            return "O número " + numero + " é ímpar.";
+        }
+    }
+
     public static void main(String[] args) {
         gerarCSV("dados.csv");
         
