@@ -33,3 +33,7 @@ definir um método para gerar um arquivo CSV. O método deve ser chamado gerarCS
 ```bash
 @workspace /explain explique o método chamarApiRest
 ```
+
+```bash
+@workspace /explain por favor gere a documentação no código linha a linha para o método chamarApiRest, sem modificar o código fonte
+```
