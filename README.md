@@ -264,4 +264,16 @@ por favor gere as classes em java no pacote br.com.kasolution.springcopilot.enti
 
 ```bash
 @workspace #file:Cliente.java #file:Estado.java gere um arquivo no formato plantuml representando as classes e suas associações
+
+@workspace #file:Cliente.java #file:Estado.java crie a interface no pacote repository para persistir as entidades
+
+@workspace crie um controlador para a entidade Cliente que realize as operações de CRUD
+```
+
+[Rest Client](https://marketplace.visualstudio.com/items/?itemName=humao.rest-client)
+
+```bash
+@workspace gere o arquivo docker file utilizando a estratégia de multi stage para criar um container docker da minha aplicação
+
+@workspace gere o arquivo yaml necessário para fazer o build da minha aplicação springcopilot
 ```
