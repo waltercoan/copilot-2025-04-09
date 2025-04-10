@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringcopilotApplication<br.com.kasolution-springcopilot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.kasolution.springcopilot.SpringcopilotApplication",
+            "projectName": "br.com.kasolution-springcopilot",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

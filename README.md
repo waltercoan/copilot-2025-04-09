@@ -242,3 +242,10 @@ Swing. Swing refere-se ao kit de ferramentas do widget da GUI para criar aplicat
 ```bash
 @workspace por favor gere as configurações necessárias no arquivo application.properties para conectar no banco de dados H2 e acessara a interface web de administração do banco
 ```
+
+## Histórias de Usuário
+- Como um atendente eu gostaria de registrar os dados de um cliente como: nome, endereco, telefone, e-mail, estado
+- Como um atendente eu gostaria de buscar um cliente pelo nome
+- Como um atendente eu gostaria de alterar os dados de um cliente
+- Como um atendente eu gostaria de excluir um cliente pelo nome
+- Como um atendente ue gostaria de registrar os estados com os dados: nome, pais
