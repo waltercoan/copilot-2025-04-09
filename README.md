@@ -244,8 +244,18 @@ Swing. Swing refere-se ao kit de ferramentas do widget da GUI para criar aplicat
 ```
 
 ## Histórias de Usuário
+
 - Como um atendente eu gostaria de registrar os dados de um cliente como: nome, endereco, telefone, e-mail, estado
 - Como um atendente eu gostaria de buscar um cliente pelo nome
 - Como um atendente eu gostaria de alterar os dados de um cliente
 - Como um atendente eu gostaria de excluir um cliente pelo nome
-- Como um atendente ue gostaria de registrar os estados com os dados: nome, pais
+- Como um atendente eu gostaria de registrar os estados com os dados: nome, pais
+
+```bash
+@workspace #sym:## Histórias de Usuário encontre quais são as entidades?
+
+por favor gere as classes em java no pacote br.com.kasolution.springcopilot.entity para representar as entidades
+
+@workspace por favor altere as entidades para que possam ser persistidas no banco de dados
+```
+
