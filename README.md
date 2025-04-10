@@ -60,3 +60,7 @@ definir um método para gerar um arquivo CSV. O método deve ser chamado gerarCS
 ```bash
 definir um método para gerenciar a conexão com um banco de dados SQL Server. O método deve ser chamado conectarBanco e deve receber um parâmetro do tipo String com a URL de conexão. O método deve retornar um objeto do tipo Connection. O método main deve chamar o método conectarBanco e passar a URL de conexão "jdbc:sqlserver://localhost:1433;databaseName=exemplo" como parâmetro
 ```
+
+```bash
+@workspace considerando o codigo do programa gere uma versao em c#
+```
