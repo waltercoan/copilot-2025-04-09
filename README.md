@@ -259,3 +259,9 @@ por favor gere as classes em java no pacote br.com.kasolution.springcopilot.enti
 @workspace por favor altere as entidades para que possam ser persistidas no banco de dados
 ```
 
+[Extensão PlantUML](https://marketplace.visualstudio.com/items/?itemName=jebbs.plantuml)
+
+
+```bash
+@workspace #file:Cliente.java #file:Estado.java gere um arquivo no formato plantuml representando as classes e suas associações
+```
