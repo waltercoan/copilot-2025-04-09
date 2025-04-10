@@ -102,3 +102,8 @@ O programa deve ser composto pelos seguintes recursos:
 3. Classe para iniciar o programa e gerenciar o caixa.  
 4. Classe principal que gerencia o fluxo do caixa e interage com o operador.  
 ```
+
+
+```bash
+@workspace /explain gerar a documentação da classe Caixa explicando linha a linha do código
+```
